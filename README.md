@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Mnqanqeni
+- 👀  I’m interested in software engineering, web development, and building impactful digital products.
+- 🌱 I’m currently learning Python, Java, Docker, socket programming, multithreading, and cloud computing.
+- 💞️ I’m looking to collaborate on open-source projects or innovative web applications where I can apply my skills in HTML, CSS, JavaScript, and backend development.
+- 📫  How to reach me: [Email Me](mailto:mnqanqenindiyakholwa206@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ndiyakholwa-mnqanqeni-9687a932b)
+- 😄 Pronouns:  He/Him
+- ⚡ Fun fact:  I love tackling complex problems and finding creative solutions—especially when I get to work with a team of passionate developers!
