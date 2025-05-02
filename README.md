@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnqanqeni&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnqanqeni&layout=compact&theme=radical)
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 
 - 🚀 **[Project Name](link)** – A brief one-line description of what the project does.
 - 📊 **[Project Name](link)** – Another project highlight.
-- 💡 **[More Projects](https://github.com/your-username?tab=repositories)** – See all my repositories!
+- 💡 **[More Projects](https://github.com/mnqanqeni?tab=repositories)** – See all my repositories!
 
 ---
 
