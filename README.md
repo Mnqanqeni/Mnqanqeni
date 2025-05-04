@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Ndiyakholwa Mnqanqeni!
 
 🎯 **Software Engineer** | 💻 Full-Stack Developer | 🚀 Tech Enthusiast
 
