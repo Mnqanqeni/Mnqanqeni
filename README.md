@@ -23,19 +23,8 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 
 ![Your GitHub Stats](https://github-readme-stats-chi-jet-53.vercel.app/api?username=mnqanqeni&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-chi-jet-53.vercel.app/api/top-langs/?username=mnqanqeni&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mnqanqeni)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnqanqeni&theme=github-compact)
-<img src="https://raw.githubusercontent.com/mnqanqeni/mnqanqeni/main/github-metrics.svg" alt="Metrics" />
+![Profile views](https://komarev.com/ghpvc/?username=mnqanqeni)
 
-
-
----
-
-## 🛠️ Projects
-
-- 🚀 **[Project Name](link)** – A brief one-line description of what the project does.
-- 📊 **[Project Name](link)** – Another project highlight.
-- 💡 **[More Projects](https://github.com/mnqanqeni?tab=repositories)** – See all my repositories!
 
 ---
 
@@ -44,14 +33,6 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser)](https://your-portfolio.com)
-
----
-
-## ✍️ Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](link)
-- [Post Title](link)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
