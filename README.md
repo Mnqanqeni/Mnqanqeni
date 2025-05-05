@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-chi-jet-53.vercel.app/api?username=mnqanqeni&show_icons=true&theme=radical&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-chi-jet-53.vercel.app/api/top-langs/?username=mnqanqeni&layout=compact&theme=radical&hide_border=false" width="32%" />
+  <img src="https://github-readme-stats-chi-jet-53.vercel.app/api/top-langs/?username=mnqanqeni&layout=compact&theme=radical&hide_border=false" width="37%" />
 </p>
 
 ---
