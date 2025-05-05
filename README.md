@@ -25,14 +25,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats-chi-jet-53.vercel.app/api?username=mnqanqeni&show_icons=true&theme=radical&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-chi-jet-53.vercel.app/api/top-langs/?username=mnqanqeni&layout=compact&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats-chi-jet-53.vercel.app/api/top-langs/?username=mnqanqeni&layout=compact&theme=radical&hide_border=false" width="22%" />
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-<div align="center" style="font-size: 1.2em">
+<div style="font-size: 1.2em">
 
 ### 🧠 Languages  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
