@@ -24,9 +24,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 ![Your GitHub Stats](https://github-readme-stats-chi-jet-53.vercel.app/api?username=mnqanqeni&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-chi-jet-53.vercel.app/api/top-langs/?username=mnqanqeni&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mnqanqeni)
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mnqanqeni)
-
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnqanqeni&theme=github-compact)
 
 ---
 
