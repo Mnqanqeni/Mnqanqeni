@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 ![Your GitHub Stats](https://github-readme-stats-chi-jet-53.vercel.app/api?username=mnqanqeni&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-chi-jet-53.vercel.app/api/top-langs/?username=mnqanqeni&layout=compact&theme=radical)
 ![Profile views](https://komarev.com/ghpvc/?username=mnqanqeni)
+![Total views](https://komarev.com/ghpvc/?username=mnqanqeni)
 
 
 ---
