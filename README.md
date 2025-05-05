@@ -1,39 +1,46 @@
-# 👋 Hi, I'm Ndiyakholwa Mnqanqeni!
+<!-- README.md -->
 
-🎯 **Software Engineer** | 💻 Full-Stack Developer | 🚀 Tech Enthusiast
+<h1 align="center">👋 Hi, I'm Ndiyakholwa Mnqanqeni</h1>
 
-Welcome to my GitHub profile! I'm passionate about building impactful software, learning new technologies, and contributing to open-source projects.
+<p align="center">
+  <b>Software Engineer</b> • <b>Full-Stack Developer</b> • <b>Lifelong Learner</b><br>
+  Building creative tech, one line of code at a time.
+</p>
 
----
-
-## 🧰 Tech Stack
-
-* **Languages**: JavaScript / TypeScript, Python, Java, C, C++, SQL
-* **Frontend**: React, Next.js, HTML5, CSS3, Tailwind CSS, Redux, Three.js
-* **Backend**: Node.js, Express, Django, Flask, Javalin
-* **Databases**: PostgreSQL, MongoDB, MySQL
-* **ORM**: Sequelize, TypeORM, Django ORM
-* **Testing**: Jasmine, Unit Testing (Python)
-* **DevOps & Tools**: Docker, Docker Compose, Git, GitHub Actions, VS Code
-* **Concepts**: RESTful APIs, OOP, Functional Programming, Data Structures & Algorithms, Network Programming, Agile Methodologies, Cloud Computing (Foundational)
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats-chi-jet-53.vercel.app/api?username=mnqanqeni&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-chi-jet-53.vercel.app/api/top-langs/?username=mnqanqeni&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ndiyakholwamnqanqeni/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Ndiyakholwa30" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mnqanqeni" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📬 Let's Connect
+## 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ndiyakholwamnqanqeni/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/Ndiyakholwa30)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser)](https://www.linkedin.com/in/ndiyakholwamnqanqeni/)
+- 🔭 Currently working on full-stack web apps, backend APIs, and some IoT side projects.
+- 🌱 Exploring cloud computing and scalable system design.
+- 💬 Always happy to chat about tech, education, or life in the dev world.
+- 🎯 Goal: To build things that matter and grow a meaningful career in tech.
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🚀 Tech Stack
 
-Thanks for stopping by! 🌟
+```bash
+💻 Languages: JavaScript, TypeScript, Python, Java, C, C++, SQL  
+🌐 Frontend: React, Next.js, HTML5, CSS3, Tailwind, Redux, Three.js  
+🖥️ Backend: Node.js, Express, Django, Flask, Javalin  
+🗄️ Databases: PostgreSQL, MongoDB, MySQL  
+🔧 Tools & DevOps: Docker, GitHub Actions, VS Code, Git  
+🧪 Testing: Jasmine, Pytest, Unit Testing  
+📦 ORMs: Sequelize, TypeORM, Django ORM  
+🧠 Concepts: REST APIs, OOP, Functional Programming, Network Programming, Cloud (foundational)
