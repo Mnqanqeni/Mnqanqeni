@@ -8,11 +8,14 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 
 ## 🧰 Tech Stack
 
-- **Languages**: JavaScript / TypeScript, Python, Java, C++
-- **Frontend**: React, Next.js, HTML5, CSS3, Tailwind CSS
-- **Backend**: Node.js, Express, Django, Flask
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **Tools**: Git, Docker, GitHub Actions, VS Code
+* **Languages**: JavaScript / TypeScript, Python, Java, C, C++, SQL
+* **Frontend**: React, Next.js, HTML5, CSS3, Tailwind CSS, Redux, Three.js
+* **Backend**: Node.js, Express, Django, Flask, Javalin
+* **Databases**: PostgreSQL, MongoDB, MySQL
+* **ORM**: Sequelize, TypeORM, Django ORM
+* **Testing**: Jasmine, Unit Testing (Python)
+* **DevOps & Tools**: Docker, Docker Compose, Git, GitHub Actions, VS Code
+* **Concepts**: RESTful APIs, OOP, Functional Programming, Data Structures & Algorithms, Network Programming, Agile Methodologies, Cloud Computing (Foundational)
 
 ---
 
