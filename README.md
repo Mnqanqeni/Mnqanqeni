@@ -72,12 +72,4 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-Thanks for stopping by! 🌟)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser)](https://your-portfolio.com)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
 Thanks for stopping by! 🌟
